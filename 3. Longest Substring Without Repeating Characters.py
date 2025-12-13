@@ -28,7 +28,7 @@ Constraints:
 0 <= s.length <= 5 * 104
 s consists of English letters, digits, symbols and spaces.
 
-
+INSIGHTS: 
 I built a raw version that gave me a runtime of around 20ms. This solution here takes just 7ms . Often times, it's funny to see how changing up the variable names and spaces can reduce runtimes.... lol
 
 """ 
