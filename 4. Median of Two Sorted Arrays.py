@@ -29,7 +29,7 @@ nums2.length == n
 
 
 
-
+INSIGHTS: 
 
 It is particularly visible from the time complexity that we have to use something that gets the job done in binary time. The algorithm should be divide and conquer for this.
 I tried binary search for this as it could solve the solution better and it worked. 
